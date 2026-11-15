@@ -37,6 +37,7 @@ class RHG_Shortcode {
         $default_person_b = !empty($settings['default_person_b']) ? esc_attr($settings['default_person_b']) : 'Person B';
         $backlink_anchor  = !empty($settings['backlink_anchor']) ? esc_html($settings['backlink_anchor']) : 'Relationship Headcanon Generator';
         $backlink_url     = !empty($settings['backlink_url']) ? esc_url($settings['backlink_url']) : home_url();
+        $backlink_rel     = !empty($settings['backlink_rel']) ? esc_attr($settings['backlink_rel']) : 'dofollow';
 
         // Localize script data for current instance
         $localized_data = [
@@ -202,7 +203,7 @@ class RHG_Shortcode {
                         </div>
                         <p class="rhg-modal-desc"><?php esc_html_e('Copy and paste the HTML embed snippet below to add this interactive generator to your blog, Tumblr, or website:', 'relationship-headcanon-generator'); ?></p>
                         <div class="rhg-embed-code-wrap">
-                            <textarea readonly class="rhg-embed-code"><iframe src="<?php echo esc_url(add_query_arg('rhg_embed', '1', get_permalink())); ?>" width="100%" height="680" frameborder="0" style="border: 1px solid #e2e8f0; border-radius: 16px; max-width: 720px; width: 100%;"></iframe><p style="font-size:12px;text-align:center;color:#64748b;margin-top:6px;">Powered by <a href="<?php echo $backlink_url; ?>" target="_blank" rel="noopener noreferrer"><?php echo $backlink_anchor; ?></a></p></textarea>
+                            <textarea readonly class="rhg-embed-code"><iframe src="<?php echo esc_url(add_query_arg('rhg_embed', '1', get_permalink())); ?>" width="100%" height="680" frameborder="0" style="border: 1px solid #e2e8f0; border-radius: 16px; max-width: 720px; width: 100%;"></iframe><p style="font-size:12px;text-align:center;color:#64748b;margin-top:6px;">Powered by <a href="<?php echo $backlink_url; ?>" target="_blank" rel="<?php echo $backlink_rel; ?>"><?php echo $backlink_anchor; ?></a></p></textarea>
                             <button type="button" class="rhg-btn-copy-embed"><?php esc_html_e('Copy Embed Code', 'relationship-headcanon-generator'); ?></button>
                         </div>
                     </div>
@@ -213,7 +214,7 @@ class RHG_Shortcode {
                 <div class="rhg-footer">
                     <span class="rhg-footer-credit">
                         <?php esc_html_e('Powered by', 'relationship-headcanon-generator'); ?> 
-                        <a href="<?php echo $backlink_url; ?>" target="_blank" rel="noopener noreferrer" class="rhg-backlink">
+                        <a href="<?php echo $backlink_url; ?>" target="_blank" rel="<?php echo $backlink_rel; ?>" class="rhg-backlink">
                             <?php echo $backlink_anchor; ?>
                         </a>
                     </span>

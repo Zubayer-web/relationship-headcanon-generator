@@ -46,6 +46,7 @@ function rhg_activate_plugin() {
             'enable_embed_code'   => '1',
             'backlink_anchor'     => 'Relationship Headcanon Generator',
             'backlink_url'        => 'https://catchaiinfo.com/tools/relationship-headcanon-generator/',
+            'backlink_rel'        => 'dofollow',
             'ad_slot_top'         => '',
             'ad_slot_bottom'      => '',
             'custom_css'          => '',

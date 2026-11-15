@@ -56,6 +56,7 @@ class RHG_Admin {
                 'enable_embed_code'   => isset($_POST['enable_embed_code']) ? '1' : '0',
                 'backlink_anchor'     => sanitize_text_field($_POST['backlink_anchor'] ?? 'Relationship Headcanon Generator'),
                 'backlink_url'        => esc_url_raw($_POST['backlink_url'] ?? home_url()),
+                'backlink_rel'        => sanitize_text_field($_POST['backlink_rel'] ?? 'dofollow'),
                 'ad_slot_top'         => wp_unslash($_POST['ad_slot_top'] ?? ''),
                 'ad_slot_bottom'      => wp_unslash($_POST['ad_slot_bottom'] ?? ''),
                 'custom_css'          => wp_strip_all_tags($_POST['custom_css'] ?? ''),
@@ -219,6 +220,17 @@ class RHG_Admin {
                                 <td>
                                     <input type="url" name="backlink_url" id="backlink_url" class="regular-text" value="<?php echo esc_attr($settings['backlink_url'] ?? home_url()); ?>">
                                     <p class="description"><?php esc_html_e('The target URL where the backlink points to (defaults to your homepage or tool landing page).', 'relationship-headcanon-generator'); ?></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row"><label for="backlink_rel"><?php esc_html_e('Backlink SEO Rel Attribute', 'relationship-headcanon-generator'); ?></label></th>
+                                <td>
+                                    <select name="backlink_rel" id="backlink_rel">
+                                        <option value="dofollow" <?php selected(($settings['backlink_rel'] ?? 'dofollow'), 'dofollow'); ?>>rel="dofollow" (Recommended - 100% DoFollow Link Juice)</option>
+                                        <option value="" <?php selected(($settings['backlink_rel'] ?? 'dofollow'), ''); ?>>Standard Follow (No rel attribute)</option>
+                                        <option value="nofollow" <?php selected(($settings['backlink_rel'] ?? 'dofollow'), 'nofollow'); ?>>rel="nofollow" (NoFollow)</option>
+                                    </select>
+                                    <p class="description"><?php esc_html_e('Ensure this is set to "dofollow" or Standard Follow so all embedded backlinks pass direct PageRank authority to your site.', 'relationship-headcanon-generator'); ?></p>
                                 </td>
                             </tr>
                         </table>

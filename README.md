@@ -74,7 +74,7 @@ The built-in embed widget allows bloggers, Tumblr writers, and fandom community 
         style="border: 1px solid #e2e8f0; border-radius: 16px; max-width: 720px; width: 100%;">
 </iframe>
 <p style="font-size:12px;text-align:center;color:#64748b;margin-top:6px;">
-  Powered by <a href="https://catchaiinfo.com/tools/relationship-headcanon-generator/" target="_blank" rel="noopener noreferrer">Relationship Headcanon Generator</a>
+  Powered by <a href="https://catchaiinfo.com/tools/relationship-headcanon-generator/" target="_blank" rel="dofollow">Relationship Headcanon Generator</a>
 </p>
 ```
 
