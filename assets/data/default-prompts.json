@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "category": "fluff",
+    "text": "{name1} has chronically freezing hands and intentionally slips them under {name2}'s sweater just to hear them yelp. {name2} groans every time, but never actually pulls away."
+  },
+  {
+    "id": 2,
+    "category": "fluff",
+    "text": "Whenever {name1} falls asleep on the couch, {name2} will tiptoe around the entire house whispering to inanimate objects so they don't wake them up."
+  },
+  {
+    "id": 3,
+    "category": "fluff",
+    "text": "{name2} bought an oversized hoodie specifically so {name1} could steal it. When {name1} wore it the first time, {name2} pretended to be upset while secretly taking ten pictures."
+  },
+  {
+    "id": 4,
+    "category": "fluff",
+    "text": "{name1} can't fall asleep unless their pinky finger is touching {name2}'s hand, even when it's too hot for full cuddling."
+  },
+  {
+    "id": 5,
+    "category": "fluff",
+    "text": "{name2} keeps a secret notes app full of everything {name1} offhandedly mentions liking throughout the year, just to surprise them on their birthday."
+  },
+  {
+    "id": 6,
+    "category": "fluff",
+    "text": "{name1} kisses the top of {name2}'s head every single time they walk past them while {name2} is focused on work or reading."
+  },
+  {
+    "id": 7,
+    "category": "fluff",
+    "text": "When they dance in private, {name2} always pulls {name1} onto their feet so they can slow dance in socks across the kitchen floor."
+  },
+  {
+    "id": 8,
+    "category": "fluff",
+    "text": "{name1} is terrible at remembering their own umbrella, but will literally sprint through a rainstorm just to deliver one to {name2}."
+  },
+  {
+    "id": 9,
+    "category": "fluff",
+    "text": "{name2} knows {name1}'s exact coffee/tea order by heart, down to the temperature and number of sugar packets, and orders it before {name1} even steps up to the counter."
+  },
+  {
+    "id": 10,
+    "category": "fluff",
+    "text": "{name1} talks in their sleep, and {name2} holds quiet 2:00 AM conversations with them just to see what weird things {name1} will reply."
+  },
+  {
+    "id": 11,
+    "category": "angst",
+    "text": "{name1} keeps waiting for the other shoe to drop, terrified that one day {name2} will wake up and realize they deserve someone better."
+  },
+  {
+    "id": 12,
+    "category": "angst",
+    "text": "During their worst argument, {name2} almost walked out the front door, but paused on the threshold when {name1}'s voice cracked asking: 'Please don't let me be right about everyone leaving.'"
+  },
+  {
+    "id": 13,
+    "category": "angst",
+    "text": "{name1} still flinches at raised voices or sudden movements, and {name2} takes a quiet, deliberate breath every time, waiting patiently until {name1} remembers they are safe."
+  },
+  {
+    "id": 14,
+    "category": "angst",
+    "text": "{name2} had a nightmare where {name1} forgot who they were. {name2} woke up gasping, only to find {name1} awake, immediately pulling them in and repeating their own name over and over."
+  },
+  {
+    "id": 15,
+    "category": "angst",
+    "text": "{name1} refuses to let {name2} see them cry, hiding in the bathroom with the faucet running until {name2} knocks softly and says, 'I'm sitting on the other side of this door until you're ready.'"
+  },
+  {
+    "id": 16,
+    "category": "angst",
+    "text": "They both know their time together has an expiration date, but neither mentions it, choosing instead to love each other twice as hard every single day."
+  },
+  {
+    "id": 17,
+    "category": "angst",
+    "text": "{name2} finds an old unsent letter {name1} wrote during their darkest chapter, realizing just how close they came to losing {name1} before they ever truly found each other."
+  },
+  {
+    "id": 18,
+    "category": "angst",
+    "text": "{name1} would burn down the entire world to protect {name2}, but {name2}'s greatest fear is becoming the reason {name1} loses their own humanity."
+  },
+  {
+    "id": 19,
+    "category": "enemies_to_lovers",
+    "text": "{name1} and {name2} are supposed to be mortal rivals, yet they have an unspoken truce: no one else is permitted to harm or defeat the other."
+  },
+  {
+    "id": 20,
+    "category": "enemies_to_lovers",
+    "text": "Trapped in an elevator together, {name1} notices {name2} hyperventilating and quietly drops all hostility, offering their hand: 'Truce. Just breathe with me, idiot.'"
+  },
+  {
+    "id": 21,
+    "category": "enemies_to_lovers",
+    "text": "{name2} spends twenty minutes insulting {name1}'s life choices while gently bandaging {name1}'s bleeding wound with expert precision."
+  },
+  {
+    "id": 22,
+    "category": "enemies_to_lovers",
+    "text": "'If you die, I will drag your soul back from hell just to kill you myself,' {name1} snaps, right before throwing themselves in front of {name2} to take a hit."
+  },
+  {
+    "id": 23,
+    "category": "enemies_to_lovers",
+    "text": "{name2} accidentally calls {name1} when severely injured because out of everyone in the world, {name1} is the only one who wouldn't lecture them before helping."
+  },
+  {
+    "id": 24,
+    "category": "enemies_to_lovers",
+    "text": "Their first kiss happens during a heated argument—mid-sentence, inches apart, where anger abruptly snaps into desperate, breathless mutual desire."
+  },
+  {
+    "id": 25,
+    "category": "enemies_to_lovers",
+    "text": "{name1} memorized all of {name2}'s fighting habits and quirks under the excuse of 'studying my adversary,' only to realize they just memorized everything about {name2}."
+  },
+  {
+    "id": 26,
+    "category": "friends_to_lovers",
+    "text": "Everyone in their friend group had a betting pool on when {name1} and {name2} would finally confess. The pot was won by someone who bet on 'after an accidental 3:00 AM forehead touch.'"
+  },
+  {
+    "id": 27,
+    "category": "friends_to_lovers",
+    "text": "{name1} realizes their feelings first when watching someone else flirt with {name2} and feeling an unexpected, sharp ache in their chest."
+  },
+  {
+    "id": 28,
+    "category": "friends_to_lovers",
+    "text": "They've shared a bed as platonic best friends for years, until one night {name2} rolls over, looks at {name1} in the moonlight, and forgets how to breathe."
+  },
+  {
+    "id": 29,
+    "category": "friends_to_lovers",
+    "text": "'We've been dating in everything but name for three years, {name2},' {name1} says with an exasperated laugh. 'Did you really think I look at anyone else like this?'"
+  },
+  {
+    "id": 30,
+    "category": "friends_to_lovers",
+    "text": "{name2} always leans their head on {name1}'s shoulder during movies. One evening, {name1} nervously rests their cheek against {name2}'s hair, and {name2} leans in closer instead of pulling away."
+  },
+  {
+    "id": 31,
+    "category": "domestic",
+    "text": "Grocery shopping is a chaotic sport: {name1} sneakily drops expensive snacks into the cart when {name2} isn't looking, while {name2} inspects every vegetable like an expert detective."
+  },
+  {
+    "id": 32,
+    "category": "domestic",
+    "text": "Sunday mornings have a strict silent ritual: {name2} makes pancakes while {name1} sits on the kitchen counter wrapped in a duvet, half-asleep waiting for coffee."
+  },
+  {
+    "id": 33,
+    "category": "domestic",
+    "text": "{name1} is banned from assembling flat-pack IKEA furniture alone because they always lose three screws and end up sitting on the floor in pure existential dread until {name2} takes over."
+  },
+  {
+    "id": 34,
+    "category": "domestic",
+    "text": "They have an ongoing silent battle where {name2} keeps trying to adjust the room thermostat and {name1} keeps stealthily switching it back five minutes later."
+  },
+  {
+    "id": 35,
+    "category": "domestic",
+    "text": "{name1} always leaves sweet or completely nonsensical post-it notes on the bathroom mirror for {name2} to read before work."
+  },
+  {
+    "id": 36,
+    "category": "domestic",
+    "text": "Sharing a closet was supposed to be 50/50, but {name2}'s clothes have somehow migrated into 80% of the hangers, and {name1} doesn't even complain anymore."
+  },
+  {
+    "id": 37,
+    "category": "comedy",
+    "text": "{name1} once tried to be smooth and waltz {name2} into a dramatic dip, but tripped over a rug and they both crashed into a laundry basket laughing hysterically."
+  },
+  {
+    "id": 38,
+    "category": "comedy",
+    "text": "{name2} gets competitive over the most ridiculous things. Board game night with {name1} is treated with the strategic gravity of the Geneva Convention."
+  },
+  {
+    "id": 39,
+    "category": "comedy",
+    "text": "{name1} claims they don't like pets, but within 48 hours of {name2} bringing home a kitten, {name1} was spotted giving the cat a customized baby voice and tucked into their jacket."
+  },
+  {
+    "id": 40,
+    "category": "comedy",
+    "text": "When {name1} is drunk, they become intensely loyal and repeatedly tell complete strangers, 'Don't talk to me, I have a spouse and their name is {name2} and they are way out of your league.'"
+  },
+  {
+    "id": 41,
+    "category": "comedy",
+    "text": "{name2} communicates with {name1} entirely across crowded rooms using a sophisticated repertoire of eyebrow raises, eye rolls, and silent mouthings of 'help me.'"
+  },
+  {
+    "id": 42,
+    "category": "au",
+    "text": "[Coffee Shop AU] {name1} purposely orders complicated drinks just so barista {name2} has to take longer talking to them, completely oblivious to the fact that {name2} draws tiny hearts on the cup."
+  },
+  {
+    "id": 43,
+    "category": "au",
+    "text": "[Soulmates AU] Every bruise or scratch {name1} gets shows up on {name2}'s skin. One day, {name2} writes a message on their forearm in ballpoint pen: 'Will you please stop walking into doorframes?'"
+  },
+  {
+    "id": 44,
+    "category": "au",
+    "text": "[Royalty AU] {name1} is the rebellious monarch and {name2} is their sworn bodyguard. During official galas, {name1} constantly breaks protocol just to pull {name2} onto the dance floor."
+  },
+  {
+    "id": 45,
+    "category": "au",
+    "text": "[College AU] {name2} is the exhausted library tutor and {name1} is the student who clearly doesn't need help with calculus, but keeps showing up every Tuesday at 6:00 PM anyway."
+  },
+  {
+    "id": 46,
+    "category": "au",
+    "text": "[Hanahaki Disease AU] {name1} coughs up flower petals of {name2}'s favorite blossom, desperately hiding the truth until {name2} catches them and whispers: 'You idiot... it's you too.'"
+  },
+  {
+    "id": 47,
+    "category": "spicy_romantic",
+    "text": "{name1} backs {name2} against the kitchen counter, trapping them with both arms. With a low, teasing whisper: 'You've been distracted all day. Care to tell me why?'"
+  },
+  {
+    "id": 48,
+    "category": "spicy_romantic",
+    "text": "{name2} has a habit of gently tugging on {name1}'s tie or collar when pulling them in for a kiss, completely destroying {name1}'s composure in seconds."
+  },
+  {
+    "id": 49,
+    "category": "spicy_romantic",
+    "text": "In a crowded formal party, {name1}'s hand never leaves {name2}'s lower back, subtle fingers tracing warm circles under the fabric of their clothes."
+  },
+  {
+    "id": 50,
+    "category": "spicy_romantic",
+    "text": "{name2} playfully whispers something scandalous into {name1}'s ear right before an important meeting, smirking as {name1} blushes bright red and clears their throat repeatedly."
+  },
+  {
+    "id": 51,
+    "category": "fluff",
+    "text": "When watching a scary movie, {name1} insists they aren't scared at all, yet their fingers remain death-gripped into {name2}'s bicep the entire time."
+  },
+  {
+    "id": 52,
+    "category": "fluff",
+    "text": "{name2} loves resting their chin on {name1}'s shoulder from behind while {name1} is cooking, inhaling the scent of their shampoo."
+  },
+  {
+    "id": 53,
+    "category": "comedy",
+    "text": "{name1} and {name2} have an emergency code word that means: 'Create a theatrical distraction so we can escape this awkward social interaction immediately.'"
+  },
+  {
+    "id": 54,
+    "category": "enemies_to_lovers",
+    "text": "Standing back-to-back surrounded by enemies, {name1} grins: 'Try not to fall in love with my sword work.' {name2} scoffs: 'Try not to trip on your own ego.'"
+  },
+  {
+    "id": 55,
+    "category": "angst",
+    "text": "{name2} stays awake listening to {name1}'s steady breathing, counting the beats of their heart like an anchor in a stormy sea."
+  },
+  {
+    "id": 56,
+    "category": "domestic",
+    "text": "{name1} always steals {name2}'s side of the bed when {name2} gets up to get water, because 'it's already pre-warmed.'"
+  },
+  {
+    "id": 57,
+    "category": "friends_to_lovers",
+    "text": "{name1} accidentally whispers 'I love you' while handing {name2} a cup of coffee. The entire room goes dead silent as {name1} freezes and {name2}'s eyes go wide."
+  },
+  {
+    "id": 58,
+    "category": "au",
+    "text": "[Fake Dating AU] {name1} and {name2} agree to fake date for a family wedding, only to realize by the reception toast that neither of them is pretending anymore."
+  },
+  {
+    "id": 59,
+    "category": "spicy_romantic",
+    "text": "{name2} pins {name1}'s hands above their head against the headboard, breath hot against their neck: 'Say my name and tell me what you want.'"
+  },
+  {
+    "id": 60,
+    "category": "fluff",
+    "text": "{name2} has a special soft smile that {name1} only ever sees when they think nobody is watching."
+  }
+]

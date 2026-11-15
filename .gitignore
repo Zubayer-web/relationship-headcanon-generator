@@ -1,0 +1,8 @@
+# Ignored files
+New Text Document.txt
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
